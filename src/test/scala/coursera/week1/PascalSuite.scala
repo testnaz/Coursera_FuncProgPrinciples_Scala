@@ -3,7 +3,6 @@ package coursera.week1
 import org.junit.runner.RunWith
 import org.scalatest.FunSuite
 import org.scalatest.junit.JUnitRunner
-import coursera.week1.Main
 
 @RunWith(classOf[JUnitRunner])
 class PascalSuite extends FunSuite {

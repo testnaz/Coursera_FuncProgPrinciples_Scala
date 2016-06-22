@@ -1,6 +1,10 @@
 package coursera.week1
 
 
+import org.junit.runner.RunWith
+import org.scalatest.FunSuite
+import org.scalatest.junit.JUnitRunner
+
 @RunWith(classOf[JUnitRunner])
 class BalanceSuite extends FunSuite {
   import Main.balance
